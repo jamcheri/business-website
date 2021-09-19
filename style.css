@@ -80,6 +80,7 @@ body {
     font-size: 10px;
     font-weight: 700;
     height: 20px;
+    margin-top: 5px;
 }
 
 .main-image {
@@ -93,7 +94,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     padding-bottom: 20px
 }
 
@@ -132,7 +133,7 @@ body {
 }
 
 .section-3 {
-    height: 230px;
+    height: 190px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -146,7 +147,6 @@ body {
     font-style: italic;
     font-size: 20px;
     color: #1F2937;
-    Font-weight: 300;
 }
 
 .Q-author {
